@@ -1,0 +1,19 @@
+body html{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    
+  background-image: url(../page.jpg);
+  background-size: cover;
+    background-position: center;
+    height: 70vh;
+    width: 100%;
+}
+.navbar{
+  background-color: blue;
+  margin-left: 0;
+}
+
+
+
